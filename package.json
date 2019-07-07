@@ -1,0 +1,23 @@
+{
+  "name": "next-g",
+  "version": "2.0.0",
+  "description": "Amich UI",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "comeoninc",
+    "amich"
+  ],
+  "author": "comeoninc.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comeoninc/next-g.git"
+  },
+  "bugs": {
+    "url": "https://github.com/comeoninc/next-g/issues"
+  },
+  "homepage": "https://github.com/comeoninc/next-g#readme"
+}
